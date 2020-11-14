@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "total": 4,
+  "result": [
+    {
+      "id_rekening": 1,
+      "kode_rekening": "1",
+      "rekening": "Belanja Rutin",
+      "status": 1
+    },
+    {
+      "id_rekening": 2,
+      "kode_rekening": "2",
+      "rekening": "Operasional",
+      "status": 1
+    },
+    {
+      "id_rekening": 3,
+      "kode_rekening": "2",
+      "rekening": "Lain-lain",
+      "status": 1
+    },
+    {
+      "id_rekening": 4,
+      "kode_rekening": "3",
+      "rekening": "Aset",
+      "status": 1
+    }
+  ]
+}
